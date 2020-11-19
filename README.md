@@ -1,8 +1,6 @@
 # base64obfuscatinginpowershell
 Created by Brad Voris<BR />
 Using base64 to obfuscate processes and commands in PowerShell<BR />
-
-
 <img alt="GitHub" src="https://img.shields.io/github/license/bvoris/base64obfuscatinginpowershell">
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/bvoris/base64obfuscatinginpowershell">
 <img alt="GitHub All Releases" src="https://img.shields.io/github/downloads/bvoris/base64obfuscatinginpowershell/total">
